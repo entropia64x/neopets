@@ -3,7 +3,7 @@
 
 Before using the script, install **ViolentMonkey** or **TamperMonkey** extension in your browser, then install the script.
 
-To install the script, open [Neopets_NeoQuestII_Autoplayer.user.js](https://github.com/entropia64x/neoquestII/commit/a0acb1fc341d4e5ed641793adb231260572c67e8) and click on Raw, then click the install button.
+To install the script, open [Neopets_NeoQuestII_Autoplayer.user.js](https://github.com/entropia64x/neopets/blob/main/NeoQuestII/Neopets_NeoquestII_Autoplayer.user.js) and click on Raw, then click the install button.
 
 Start the autoplayer **1 unit diagonally left above of Mother**, not above Mother, as the game does
 when it starts.
